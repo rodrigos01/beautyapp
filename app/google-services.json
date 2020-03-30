@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "256984027804",
+    "firebase_url": "https://beauty-c8fa7.firebaseio.com",
+    "project_id": "beauty-c8fa7",
+    "storage_bucket": "beauty-c8fa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256984027804:android:1e0026f4a33630f1c41359",
+        "android_client_info": {
+          "package_name": "org.rodrigo.beauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256984027804-ejagldo9hupdlekn6hf4fkim7o8qarhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsIdHgQvCNAHFbBlHT_8RerAfgNWNkpiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256984027804-ejagldo9hupdlekn6hf4fkim7o8qarhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
